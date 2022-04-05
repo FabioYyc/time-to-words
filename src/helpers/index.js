@@ -46,6 +46,5 @@ const timeStringToNumberPair = (timeString) => {
 
 module.exports = {
   timeStringToNumberPair,
-  determineHour,
   englishForNumbers,
 };
